@@ -8,7 +8,7 @@ AgriYield is a project focused on predicting agricultural yields using data-driv
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/AdityaC-0605/Agri-Yield.git
     cd AgriYield
     ```
 
