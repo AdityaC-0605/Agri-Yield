@@ -49,8 +49,3 @@ The `res` folder contains the following datasets:
 ## Contributing
 
 Contributions are welcome! Please open issues or submit pull requests for improvements.
-
-## Acknowledgements
-
-- Data sources
-- Libraries used
